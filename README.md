@@ -1,2 +1,2 @@
-# Password-Strength-Checker-Model
+# Password-Strength-Checker-Model :- 
 This project presents a machine learning model to evaluate the strength of passwords using the Random Forest algorithm. Password strength is a crucial aspect of cybersecurity, as weak passwords can easily be compromised, leading to unauthorized access to sensitive information.This model aims to classify passwords into various strength categories, such as weak, medium, and strong, based on a range of features extracted from the passwords.
